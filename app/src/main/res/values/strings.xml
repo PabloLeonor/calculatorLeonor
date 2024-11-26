@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator Leonor</string>
+    <string name="textoIntroducirOperacion">An operation must be entered.</string>
+</resources>
